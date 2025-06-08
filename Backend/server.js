@@ -14,9 +14,18 @@ const io = new Server(server, {
     methods: ["GET", "POST"],
   },
 });
+const path = require("path");
+
+app.use(express.static(path.join(__dirname, "../Frontend")));
+
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "../Frontend/Client.html"));
+});
+
 
 socketHandler(io);
 
 server.listen(8000, () => {
-  console.log(`Server is running on port 8000`);
+  console.log(`Server is running on port: 8000`);
 });
