@@ -1,5 +1,6 @@
 console.log("Client connected");
-const socket = io("http://localhost:8000");
+// const socket = io("http://localhost:8000");
+const socket = io("https://rock-paper-scissors-wt5w.onrender.com");
 
 // Sounds
 const clickSound = new Audio("Sounds/click.mp3");
