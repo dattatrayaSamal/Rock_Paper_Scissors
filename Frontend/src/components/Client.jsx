@@ -128,7 +128,7 @@ const Client = () => {
             <div
               id="overlay"
               style={{
-                display: 'block',
+                // display: 'block',
                 backgroundColor: 'rgba(255, 255, 255, 0.8)',
                 fontSize: '2rem',
                 fontWeight: 'bold',
