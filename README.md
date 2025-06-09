@@ -9,6 +9,18 @@ A real-time, multiplayer **Rock-Paper-Scissors** game built using **Node.js**, *
 
 Click here to play: 👉 [Rock Paper Scissors Game](https://extraordinary-belekoy-d0720b.netlify.app/)
 
+## How to Play
+Step-1 : Open two separate browser windows (to simulate two individual players).
+
+Step-2 : Enter your username in each window and click Join Game.
+
+Step-3 : Once both players have joined, you can choose Rock, Paper, or Scissors by clicking the corresponding button.
+
+After both players make their choices, the round result will be displayed.
+
+The game automatically resets after 5 rounds — then you can start a new match.
+
+
 
 ## ✨ Features
 
