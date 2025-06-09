@@ -5,6 +5,10 @@
 A real-time, multiplayer **Rock-Paper-Scissors** game built using **Node.js**, **Socket.IO**, and **Vanilla JavaScript**. This is not your average RPS game—it's got real-time syncing, sound effects, winner animations, and automatic round resets for a truly interactive experience.
 
 ---
+### 🌐 Live Demo
+
+Click here to play: 👉 [Rock Paper Scissors Game](https://extraordinary-belekoy-d0720b.netlify.app/)
+
 
 ## ✨ Features
 
