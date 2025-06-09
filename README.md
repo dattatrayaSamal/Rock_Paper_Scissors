@@ -1,5 +1,3 @@
-# Rock_Paper_Scissors-
-
 # Rock_Paper_Scissors 🎮
 
 A real-time, multiplayer **Rock-Paper-Scissors** game built using **Node.js**, **Socket.IO**, and **Vanilla JavaScript**. This is not your average RPS game—it's got real-time syncing, sound effects, winner animations, and automatic round resets for a truly interactive experience.
@@ -54,7 +52,7 @@ Rock_Paper_Scissors/
 | ├── utils
 | |   └── gameUtils.js 
 │ ├── server.js
-  ├── package.json
+| ├── package.json
 │ ├── package-lock.json
 │ └── .gitignore
 |
